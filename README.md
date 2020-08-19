@@ -1,1 +1,1 @@
-# CovidTracker
+An application that lets you track Coronavirus cases around the world. The data comes from a Github repo that is maintained and updated by John Hopkins University. The application was built using Angular and is hosted on Firebase. You can a global pie graph of recovered cases, deaths, etc or view country specific data.
